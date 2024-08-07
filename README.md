@@ -11,7 +11,7 @@ Download and extract the following .zip files into the same directory:
 - [Part 2](https://nextcloud.fit.vutbr.cz/s/cHAZzzkwCnSGBEX/download/dataset_02.zip)
 - [Part 3](https://nextcloud.fit.vutbr.cz/s/EqHWL5G7BnfgKKC/download/dataset_03.zip)
 - [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg/download/dataset_04.zip)
-- xxx
+- [Metadata + results](https://nextcloud.fit.vutbr.cz/s/zKYSwFAHeXGG7YF/download/metadata.zip)
 
 ## Reference
 
