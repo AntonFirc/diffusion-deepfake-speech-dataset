@@ -13,4 +13,16 @@ Download and extract the following .zip files into the same directory:
 - [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg/download/dataset_04.zip)
 - xxx
 
+## Reference
+
+```
+@INPROCEEDINGS{firc_diffusion_2024,
+  author={Firc, Anton and Malinka, Kamil and Hanáček Petr},
+  booktitle={2024 International Conference of the Biometrics Special Interest Group (BIOSIG)}, 
+  title={Diffuse or Confuse: A Diffusion Deepfake Speech Dataset}, 
+  year={2024},
+  pages={1-5},
+  doi={XXXX}
+}
+```
 
