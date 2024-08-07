@@ -7,10 +7,10 @@ FIRC Anton, MALINKA Kamil, HANÁČEK Petr. Diffuse or Confuse: A Diffusion Deepf
 ## Download
 
 Download and extract the following .zip files into the same directory:
-- xxx
-- xxx
-- xxx
-- xxx
+- [Part 1](https://nextcloud.fit.vutbr.cz/s/HYcHPMTNn753QLF/download/dataset_01.zip)
+- [Part 2](https://nextcloud.fit.vutbr.cz/s/cHAZzzkwCnSGBEX/download/dataset_02.zip)
+- [Part 3](https://nextcloud.fit.vutbr.cz/s/EqHWL5G7BnfgKKC/download/dataset_03.zip)
+- [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg/download/dataset_04.zip)
 - xxx
 
 
