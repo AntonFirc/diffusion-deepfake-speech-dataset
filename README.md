@@ -18,13 +18,14 @@ Download and extract the following .zip files into the same directory:
 ## Reference
 
 ```
-@INPROCEEDINGS{firc_diffusion_2024,
-  author={Firc, Anton and Malinka, Kamil and Hanáček Petr},
-  booktitle={2024 International Conference of the Biometrics Special Interest Group (BIOSIG)}, 
-  title={Diffuse or Confuse: A Diffusion Deepfake Speech Dataset}, 
-  year={2024},
-  pages={1-5},
-  doi={XXXX}
+@misc{firc2024diffuseconfusediffusiondeepfake,
+      title={Diffuse or Confuse: A Diffusion Deepfake Speech Dataset}, 
+      author={Anton Firc and Kamil Malinka and Petr Hanáček},
+      year={2024},
+      eprint={2410.06796},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2410.06796}, 
 }
 ```
 
