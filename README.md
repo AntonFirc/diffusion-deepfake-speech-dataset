@@ -1,10 +1,10 @@
 # Diffuse or Confuse: A Diffusion Deepfake Speech Dataset
 
-FIRC Anton, MALINKA Kamil, HANÁČEK Petr. Diffuse or Confuse: A Diffusion Deepfake Speech Dataset. In: 2024 International Conference of the Biometrics Special Interest Group (BIOSIG). Proceedings of the 23rd International Conference of the Biometrics Special Interest Group. Darmstadt: GI - Group for computer science, 2024
+A. Firc, K. Malinka and P. Hanáček, "Diffuse or Confuse: A Diffusion Deepfake Speech Dataset," 2024 International Conference of the Biometrics Special Interest Group (BIOSIG), Darmstadt, Germany, 2024, pp. 1-7, doi: 10.1109/BIOSIG61931.2024.10786752.
 
 > Advancements in artificial intelligence and machine learning have significantly improved synthetic speech generation. This paper explores diffusion models, a novel method for creating realistic synthetic speech. We create a diffusion dataset using available tools and pretrained models. Additionally, this study assesses the quality of diffusion-generated deepfakes versus non-diffusion ones and their potential threat to current deepfake detection systems. Findings indicate that the detection of diffusion-based deepfakes is generally comparable to non-diffusion deepfakes, with some variability based on detector architecture. Re-vocoding with diffusion vocoders shows minimal impact, and the overall speech quality is comparable to non-diffusion methods.
 
-Available on ArXiv: [https://arxiv.org/abs/2410.06796](https://arxiv.org/abs/2410.06796)
+Available on [IEEE](https://ieeexplore.ieee.org/document/10786752) and [ArXiv](https://arxiv.org/abs/2410.06796). 
 
 ## Download
 
@@ -18,14 +18,16 @@ Download and extract the following .zip files into the same directory:
 ## Reference
 
 ```
-@misc{firc2024diffuseconfusediffusiondeepfake,
-      title={Diffuse or Confuse: A Diffusion Deepfake Speech Dataset}, 
-      author={Anton Firc and Kamil Malinka and Petr Hanáček},
-      year={2024},
-      eprint={2410.06796},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2410.06796}, 
+@INPROCEEDINGS{10786752,
+  author={Firc, Anton and Malinka, Kamil and Hanáček, Petr},
+  booktitle={2024 International Conference of the Biometrics Special Interest Group (BIOSIG)}, 
+  title={Diffuse or Confuse: A Diffusion Deepfake Speech Dataset}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Biometrics;Deepfakes;Vocoders;Detectors;Diffusion models;Speech synthesis;deepfakes;deepfake speech;dataset;diffusion;detection},
+  doi={10.1109/BIOSIG61931.2024.10786752}
 }
 ```
 
