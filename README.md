@@ -9,11 +9,11 @@ Available on [IEEE](https://ieeexplore.ieee.org/document/10786752) and [ArXiv](h
 ## Download
 
 Download and extract the following .zip files into the same directory:
-- [Part 1](https://nextcloud.fit.vutbr.cz/s/HYcHPMTNn753QLF/download/dataset_01.zip)
-- [Part 2](https://nextcloud.fit.vutbr.cz/s/cHAZzzkwCnSGBEX/download/dataset_02.zip)
-- [Part 3](https://nextcloud.fit.vutbr.cz/s/EqHWL5G7BnfgKKC/download/dataset_03.zip)
-- [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg/download/dataset_04.zip)
-- [Metadata + results](https://nextcloud.fit.vutbr.cz/s/zKYSwFAHeXGG7YF/download/metadata.zip)
+- [Part 1](https://nextcloud.fit.vutbr.cz/s/HYcHPMTNn753QLF/download)
+- [Part 2](https://nextcloud.fit.vutbr.cz/s/cHAZzzkwCnSGBEX/download)
+- [Part 3](https://nextcloud.fit.vutbr.cz/s/EqHWL5G7BnfgKKC/download)
+- [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg/download)
+- [Metadata + results](https://nextcloud.fit.vutbr.cz/s/zKYSwFAHeXGG7YF/download)
 
 ## Reference
 
