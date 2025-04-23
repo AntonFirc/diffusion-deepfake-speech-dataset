@@ -8,7 +8,8 @@ Available on [IEEE](https://ieeexplore.ieee.org/document/10786752) and [ArXiv](h
 
 ## Download
 
-Download available on zenodo platform: [https://zenodo.org/records/15260248](https://zenodo.org/records/15260248)
+This dataset is archived on Zenodo:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15260248.svg)](https://doi.org/10.5281/zenodo.15260248)
 
 ## License
 
