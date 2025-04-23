@@ -8,12 +8,7 @@ Available on [IEEE](https://ieeexplore.ieee.org/document/10786752) and [ArXiv](h
 
 ## Download
 
-Download and extract the following .zip files into the same directory:
-- [Part 1](https://nextcloud.fit.vutbr.cz/s/HYcHPMTNn753QLF)
-- [Part 2](https://nextcloud.fit.vutbr.cz/s/cHAZzzkwCnSGBEX)
-- [Part 3](https://nextcloud.fit.vutbr.cz/s/EqHWL5G7BnfgKKC)
-- [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg)
-- [Metadata + results](https://nextcloud.fit.vutbr.cz/s/zKYSwFAHeXGG7YF)
+Download available on zenodo platform: [https://zenodo.org/records/15260248](https://zenodo.org/records/15260248)
 
 ## License
 
