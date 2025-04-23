@@ -15,6 +15,11 @@ Download and extract the following .zip files into the same directory:
 - [Part 4](https://nextcloud.fit.vutbr.cz/s/DZdPWXySKbXEQSg)
 - [Metadata + results](https://nextcloud.fit.vutbr.cz/s/zKYSwFAHeXGG7YF)
 
+## License
+
+This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+
 ## Reference
 
 ```
